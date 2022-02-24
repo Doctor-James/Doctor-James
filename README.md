@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CV,DeepLearning,SLAM,Robotics. 
 - 📫 How to reach me: 292873763@qq.com
 
-![](https://visitor-badge.glitch.me/badge?page_id=Doctor-James.readme)
+![](http://antzuhl.cn:4000/get/@Doctor-James.readme)
