@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on RoboMaster HUST
+- 🌱 I’m currently learning CV,DeepLearning,SLAM,Robotics. 
+- 📫 How to reach me: 292873763@qq.com
+
+![](https://visitor-badge.glitch.me/badge?page_id=Doctor-James.readme)
