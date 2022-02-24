@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning CV,DeepLearning,SLAM,Robotics. 
 - 📫 How to reach me: 292873763@qq.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-James&layout=compact&hide=c,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-James&layout=compact&hide=c,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doctor-James)](https://github.com/anuraghazra/github-readme-stats)
 
