@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on RoboMaster HUST
-- 🌱 I’m currently learning CV,DeepLearning,SLAM,Robotics. 
-- 📫 How to reach me: zoujialu80@gmail.com
+- 🔭 I’m currently working on hustvl HUST
+- 🌱 I’m currently learning CV,DeepLearning. 
+- 📫 How to reach me: jialvzou@hust.edu.cn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-James&layout=compact&hide=c,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
