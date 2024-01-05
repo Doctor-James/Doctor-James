@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [hustvl](https://github.com/hustvl) HUST
-- 🌱 I’m currently learning CV, DeepLearning. 
+- 🌱 I’m currently learning CV, DeepLearning
 - 📫 How to reach me: jialvzou@hust.edu.cn
+- 😄 Here is my personal website: [Jialv Zou](https://jialv-zou.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doctor-James&layout=compact&hide=c,makefile,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
