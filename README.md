@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [hustvl](https://github.com/hustvl) HUST
-- 🌱 I’m currently learning CV, DeepLearning
+- 🌱 I’m currently learning Unified Model
 - 📫 How to reach me: jialvzou@hust.edu.cn
-- 😄 Here is my personal website: [Jialv Zou](https://jialv-zou.netlify.app/)
+- 😄 Here is my personal website: [Jialv Zou](https://doctor-james.github.io/)
 
 
